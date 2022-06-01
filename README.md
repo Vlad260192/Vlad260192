@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vlad260192
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
