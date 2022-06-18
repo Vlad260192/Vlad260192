@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vlad260192
+- 👋 Hi, I’m Vladislav Kapustianskyi
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently learning JavaScript
 - 🌱 I`m always in process of developing my skills in HTML and CSS
